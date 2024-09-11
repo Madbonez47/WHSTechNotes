@@ -9,3 +9,9 @@ location tells the app/site where the  bolt is located. it also provides knowled
 # September 10, 2024
 
 no, I did not encounter any challenges. Nothing was misunderstood everyone is just stupid.
+
+# September 11, 2024
+
+it make sure I runs smoothly 
+it breaks 
+to make sure you have correct code
