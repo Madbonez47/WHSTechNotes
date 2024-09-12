@@ -15,3 +15,7 @@ no, I did not encounter any challenges. Nothing was misunderstood everyone is ju
 it make sure I runs smoothly 
 it breaks 
 to make sure you have correct code
+
+# September 12, 2024
+positive,productive,prepared, polite, prompt
+productive would help the most by doing the work.
