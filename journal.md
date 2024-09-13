@@ -18,4 +18,12 @@ to make sure you have correct code
 
 # September 12, 2024
 positive,productive,prepared, polite, prompt
-productive would help the most by doing the work.
+productive would help the most by showing that I know what I am doing.
+
+# September 13, 2024
+
+confident
+consistent
+communicate
+courageous
+consistent would help the most by showing that I know what I am doing.
