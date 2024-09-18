@@ -27,3 +27,6 @@ consistent
 communicate
 courageous
 consistent would help the most by showing that I know what I am doing.
+
+# September 18, 2024
+time was the main problem we fix it with trial-and-error
