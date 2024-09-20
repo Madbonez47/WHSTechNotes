@@ -33,3 +33,6 @@ time was the main problem we fix it with trial-and-error
 
 # September 19, 2024
 timing was what we changed
+
+# September 20, 2024
+none. nothing. no difficulties
