@@ -36,3 +36,9 @@ timing was what we changed
 
 # September 20, 2024
 none. nothing. no difficulties
+
+# September 26, 2024
+sphero because I have been using it for longer
+trial-and-error
+sphero
+shows how code functions
