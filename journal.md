@@ -42,3 +42,6 @@ sphero because I have been using it for longer
 trial-and-error
 sphero
 shows how code functions
+
+# October 2, 2024
+playing video games
