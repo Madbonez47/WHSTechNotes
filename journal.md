@@ -45,3 +45,9 @@ shows how code functions
 
 # October 2, 2024
 playing video games
+
+# October 10, 2024
+I have a job in mind already
+
+# October 15, 2024
+you have to fix any challenges that are in the code. I don't know. it makes you come up with creative solutions and promote collaboration 
