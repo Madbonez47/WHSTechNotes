@@ -51,3 +51,6 @@ I have a job in mind already
 
 # October 15, 2024
 you have to fix any challenges that are in the code. I don't know. it makes you come up with creative solutions and promote collaboration 
+# October 21, 2024
+some ai benefits are increased efficiency in jobs. more jobs created to fix the ai And job to make ai.
+risks of ai are less job that are not ai-based. loss of normal jobs. and power outages disability some job temporary or permanently.
