@@ -54,3 +54,5 @@ you have to fix any challenges that are in the code. I don't know. it makes you 
 # October 21, 2024
 some ai benefits are increased efficiency in jobs. more jobs created to fix the ai And job to make ai.
 risks of ai are less job that are not ai-based. loss of normal jobs. and power outages disability some job temporary or permanently.
+# October 28, 2024
+it made it easier to vote because you can vote online now
