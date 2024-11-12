@@ -58,3 +58,6 @@ risks of ai are less job that are not ai-based. loss of normal jobs. and power o
 it made it easier to vote because you can vote online now
 # November 4, 2024
 so your info/identity can no be stolen. password. no. 
+# November 12, 2024
+election. voting online
+technology has made it easy to vote
