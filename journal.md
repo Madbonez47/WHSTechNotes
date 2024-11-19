@@ -62,4 +62,4 @@ so your info/identity can no be stolen. password. no.
 election. voting online
 technology has made it easy to vote
 # November 19, 2024
-if you mess up cooking you can just order ingredients/meals
+if you mess up cooking you can just order ingredients/meals. if the internet goes down no one gets food.
