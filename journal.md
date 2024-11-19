@@ -61,3 +61,5 @@ so your info/identity can no be stolen. password. no.
 # November 12, 2024
 election. voting online
 technology has made it easy to vote
+# November 19, 2024
+if you mess up cooking you can just order ingredients/meals
