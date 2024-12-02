@@ -63,3 +63,5 @@ election. voting online
 technology has made it easy to vote
 # November 19, 2024
 if you mess up cooking you can just order ingredients/meals. if the internet goes down no one gets food.
+# December 2, 2024
+make images and videos for us to use in courses
