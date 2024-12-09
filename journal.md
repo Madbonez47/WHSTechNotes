@@ -65,3 +65,5 @@ technology has made it easy to vote
 if you mess up cooking you can just order ingredients/meals. if the internet goes down no one gets food.
 # December 2, 2024
 make images and videos for us to use in courses
+# December 9, 2024
+the term to me means something that is repeated often and by a lot of people. it has no impact on my well-being. 
