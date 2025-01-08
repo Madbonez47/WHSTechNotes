@@ -69,3 +69,5 @@ make images and videos for us to use in courses
 the term to me means something that is repeated often and by a lot of people. it has no impact on my well-being. 
 # December 16, 2024
 yes
+# January 8, 2025
+learning coding. no. yes.
