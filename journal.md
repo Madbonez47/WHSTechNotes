@@ -71,3 +71,5 @@ the term to me means something that is repeated often and by a lot of people. it
 yes
 # January 8, 2025
 learning coding. no. yes.
+# January 13, 2025
+indifferent. enhance them. getting familiar with ai
