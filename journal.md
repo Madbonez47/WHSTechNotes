@@ -73,3 +73,5 @@ yes
 learning coding. no. yes.
 # January 13, 2025
 indifferent. enhance them. getting familiar with ai
+# January 21, 2025
+it impacts tech companies and their users by limiting what they can do or be from.
