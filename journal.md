@@ -75,3 +75,10 @@ learning coding. no. yes.
 indifferent. enhance them. getting familiar with ai
 # January 21, 2025
 it impacts tech companies and their users by limiting what they can do or be from.
+# January 28, 2025 
+| Name     | Car | Mistake |
+    | :------- | :--  | :------ |
+    | Jimmy    |Honda Civic|drilled hole in gas tank|
+    | Kayla    |GMC Sierra  |fixed wrong problem|
+    | Bart     |Toyota corolla|left stin on carpet         |
+    | Harrison |Subaru forester| left the oil cap off        |
