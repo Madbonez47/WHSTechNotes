@@ -82,3 +82,5 @@ it impacts tech companies and their users by limiting what they can do or be fro
     | Kayla    |GMC Sierra  |fixed wrong problem|
     | Bart     |Toyota corolla|left stin on carpet         |
     | Harrison |Subaru forester| left the oil cap off        |
+# February 11, 2025
+make a system that predicts the 5 most likely plans based on the real time data
