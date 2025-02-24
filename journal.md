@@ -86,3 +86,5 @@ it impacts tech companies and their users by limiting what they can do or be fro
 make a system that predicts the 5 most likely plans based on the real time data
 # February 18, 2025
 coding
+# February 24, 2025
+research and explanation
