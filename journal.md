@@ -88,3 +88,5 @@ make a system that predicts the 5 most likely plans based on the real time data
 coding
 # February 24, 2025
 research and explanation
+# March 3, 2025
+I was not paying attention to the rest of the class
