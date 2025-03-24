@@ -90,3 +90,5 @@ coding
 research and explanation
 # March 3, 2025
 I was not paying attention to the rest of the class
+# March 24, 2025
+add excitement. I hear and see ad about it.
