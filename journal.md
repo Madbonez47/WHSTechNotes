@@ -92,3 +92,5 @@ research and explanation
 I was not paying attention to the rest of the class
 # March 24, 2025
 add excitement. I hear and see ad about it.
+# March 31, 2025
+tired. nothing. play video games. pass. mom and yes.
