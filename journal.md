@@ -96,3 +96,5 @@ add excitement. I hear and see ad about it.
 tired. nothing. play video games. pass. mom and yes.
 # April 7, 2025
 yes
+# April 14, 2025
+detrimental. students will be more angry and irritable. riot and not show up to school.
