@@ -98,3 +98,9 @@ tired. nothing. play video games. pass. mom and yes.
 yes
 # April 14, 2025
 detrimental. students will be more angry and irritable. riot and not show up to school.
+# April 28, 2025
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    |chocolate|graduation|$35.00| 
+| Michael  |vinilla|farewell party|$37.00| 
+| Emma     |carrot|birthday party|$39.00| 
