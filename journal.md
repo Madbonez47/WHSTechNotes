@@ -104,3 +104,5 @@ detrimental. students will be more angry and irritable. riot and not show up to 
 | Sally    |chocolate|graduation|$35.00| 
 | Michael  |vinilla|farewell party|$37.00| 
 | Emma     |carrot|birthday party|$39.00| 
+# May 5, 2025
+100 people. no it is not responsible. trends are not always smart.
