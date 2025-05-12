@@ -106,3 +106,5 @@ detrimental. students will be more angry and irritable. riot and not show up to 
 | Emma     |carrot|birthday party|$39.00| 
 # May 5, 2025
 100 people. no it is not responsible. trends are not always smart.
+# May 12, 2025
+unethical.
