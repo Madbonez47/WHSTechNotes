@@ -108,3 +108,5 @@ detrimental. students will be more angry and irritable. riot and not show up to 
 100 people. no it is not responsible. trends are not always smart.
 # May 12, 2025
 unethical.
+# May 19, 2025
+yes.
